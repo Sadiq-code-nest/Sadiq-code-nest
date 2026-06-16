@@ -24,7 +24,7 @@
 
 ## About
 
-DevOps & Cloud Infrastructure Engineer specializing in container orchestration, CI/CD automation, and production observability. currently delivering managed cloud infrastructure and DevOps services under the **Cloudly DevOps Team** brand.
+DevOps & Cloud Infrastructure Engineer specializing in container orchestration, CI/CD automation, and production observability — currently delivering managed cloud infrastructure and AIOps services under the **Cloudly DevOps Team** brand.
 
 ---
 
@@ -108,15 +108,20 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadiq-code-nest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=contribs&rank_icon=github&include_all_commits=false" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sadiq-code-nest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Commits+%26+Repositories" height="170" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sadiq-code-nest&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadiq-code-nest&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Sadiq-code-nest&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&hide=currentstreak" alt="GitHub Streak" />
 
 </div>
 
