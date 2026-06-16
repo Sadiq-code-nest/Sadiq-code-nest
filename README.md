@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=DevOps+Engineer;Building+Reliable+Systems+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Building+Reliable+Systems+at+Scale" alt="Typing SVG" />
 
 <br/>
 
@@ -32,80 +32,20 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 
 <div align="center">
 
-<br/>
-
-**Container & Orchestration**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" /></a>
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,aws,prometheus,grafana,python,bash,javascript,nodejs,git,github&theme=dark&perline=8" />
 
 <br/><br/>
 
-**CI / CD**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins&theme=dark" /></a>
-
-<br/><br/>
-
-**Infrastructure as Code**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" /></a>
-
-<br/><br/>
-
-**Cloud — AWS**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="35"/>
-
-<br/><br/>
-
-**Observability & Security**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Promtail-F5A800?style=for-the-badge&logo=grafana&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" height="35"/>
-
-<br/><br/>
-
-**Languages & Scripting**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs&theme=dark" /></a>
-
-<br/><br/>
-
-**Version Control**
-
-<br/>
-
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" /></a>
-
-<br/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
 
 </div>
 
