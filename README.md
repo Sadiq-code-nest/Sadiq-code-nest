@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Building+Reliable+Systems+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Building+Reliable+Systems+at+Scale" alt="Typing SVG" />
 
 <br/>
 
@@ -32,71 +32,80 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 
 <div align="center">
 
-### Container & Orchestration
 <br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+**Container & Orchestration**
 
 <br/>
 
-### CI / CD
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" /></a>
 <br/>
+<a href="#"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="40"/></a>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<br/><br/>
 
-<br/>
-
-### Infrastructure as Code
-<br/>
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+**CI / CD**
 
 <br/>
 
-### Cloud — AWS
-<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins&theme=dark" /></a>
 
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+<br/><br/>
+
+**Infrastructure as Code**
 
 <br/>
 
-### Observability & Security
-<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" /></a>
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+<br/><br/>
+
+**Cloud — AWS**
 
 <br/>
 
-### Languages & Scripting
+<a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="35"/>
+
+<br/><br/>
+
+**Observability & Security**
+
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Promtail-F5A800?style=for-the-badge&logo=grafana&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" height="35"/>
+
+<br/><br/>
+
+**Languages & Scripting**
 
 <br/>
 
-### Version Control
+<a href="#"><img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs&theme=dark" /></a>
+
+<br/><br/>
+
+**Version Control**
+
 <br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" /></a>
+
+<br/>
 
 </div>
 
@@ -104,14 +113,56 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 
 ## Featured Projects
 
+> Work in progress — building in public.
+
 <div align="center">
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| [100 Days of DevOps](https://github.com/Sadiq-code-nest/100DaysofDevOps) | Structured public learning log — Linux → Git → Docker → Kubernetes → IaC | Docker · Kubernetes · Terraform |
-| [DevOps Academy MERN](https://github.com/Sadiq-code-nest/devops-academy-MERN) | Full-stack course platform with JWT auth, role-based access, PM2 deployment | Node.js · React · MongoDB · Docker |
-| CloudGuardian Stack *(private)* | Grafana + Prometheus + Loki + Wazuh observability stack on AWS EKS | Kubernetes · Helm · AWS |
-| Cloudly Pipeline App *(private)* | Internal delivery pipeline management tool for client infrastructure workflows | Docker · MySQL · Node.js |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Sadiq-code-nest/100DaysofDevOps">
+        <img src="https://img.shields.io/badge/🚀_100_Days_of_DevOps-In_Progress-58A6FF?style=for-the-badge&labelColor=0D1117" />
+      </a>
+      <br/><br/>
+      <sub>Structured public learning log — Linux → Git → Docker → Kubernetes → IaC</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Day_45%2B_of_100-4EAA25?style=flat-square" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Sadiq-code-nest/devops-academy-MERN">
+        <img src="https://img.shields.io/badge/🎓_DevOps_Academy_MERN-Active-58A6FF?style=for-the-badge&labelColor=0D1117" />
+      </a>
+      <br/><br/>
+      <sub>Full-stack course platform with JWT auth, role-based access, PM2 deployment</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🔒_CloudGuardian_Stack-Private-6E7681?style=for-the-badge&labelColor=0D1117" />
+      <br/><br/>
+      <sub>Grafana + Prometheus + Loki + Wazuh observability stack on AWS EKS</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/⚙️_Cloudly_Pipeline_App-Private-6E7681?style=for-the-badge&labelColor=0D1117" />
+      <br/><br/>
+      <sub>Internal delivery pipeline management tool for client infrastructure workflows</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -121,9 +172,7 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadiq-code-nest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiq-code-nest&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sadiq-code-nest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=contribs&rank_icon=github&include_all_commits=false" height="170" alt="GitHub Stats" />
 
 <br/><br/>
 
