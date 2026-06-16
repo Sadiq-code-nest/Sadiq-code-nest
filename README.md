@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Building+Reliable+Systems+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=DevOps+Engineer;Building+Reliable+Systems+at+Scale" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ## About
 
-DevOps & Cloud Infrastructure Engineer specializing in container orchestration, CI/CD automation, and production observability. currently delivering managed cloud infrastructure and AIOps services under the **Cloudly DevOps Team** brand.
+DevOps Engineer focused on container orchestration, CI/CD automation, and production observability — currently delivering managed infrastructure and DevOps services under the **Cloudly DevOps Team**.
 
 ---
 
@@ -32,7 +32,7 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,aws,prometheus,grafana,python,bash,javascript,nodejs,git,github&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,git,github,linux,python,bash&theme=dark&perline=7" />
 
 <br/><br/>
 
@@ -40,12 +40,25 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" height="32"/>
+
+<br/><br/>
+
+**AWS Services**
+
+<br/>
+
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
 
 </div>
 
@@ -108,12 +121,11 @@ DevOps & Cloud Infrastructure Engineer specializing in container orchestration, 
 
 ---
 
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadiq-code-nest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title=Commits+%26+Repositories" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sadiq-code-nest&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars,prs,issues&custom_title=Commits+%26+Activity" height="170" alt="GitHub Stats" />
 
 <br/><br/>
 
