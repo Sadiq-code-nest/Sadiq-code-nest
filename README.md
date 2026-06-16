@@ -24,7 +24,7 @@
 
 ## About
 
-DevOps & Cloud Infrastructure Engineer specializing in container orchestration, CI/CD automation, and production observability — currently delivering managed cloud infrastructure and AIOps services under the **Cloudly DevOps Team** brand.
+DevOps & Cloud Infrastructure Engineer specializing in container orchestration, CI/CD automation, and production observability. currently delivering managed cloud infrastructure and AIOps services under the **Cloudly DevOps Team** brand.
 
 ---
 
