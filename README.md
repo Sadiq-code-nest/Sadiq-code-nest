@@ -35,18 +35,13 @@ DevOps Engineer focused on container orchestration, CI/CD automation, and produc
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,prometheus,grafana,git,github,linux,python,bash&theme=dark&perline=7" />
 
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Helm-1E2A3A?style=for-the-badge&logo=helm&logoColor=0F1689" height="32"/>
 <img src="https://img.shields.io/badge/ArgoCD-1E2A3A?style=for-the-badge&logo=argo&logoColor=EF7B4D" height="32"/>
 <img src="https://img.shields.io/badge/Loki-1E2A3A?style=for-the-badge&logo=grafana&logoColor=F5A800" height="32"/>
 <img src="https://img.shields.io/badge/Wazuh_SIEM-1E2A3A?style=for-the-badge&logo=elastic&logoColor=58A6FF" height="32"/>
-
 <br/><br/>
-
 **AWS Services**
-
 <br/>
-
 <img src="https://img.shields.io/badge/EC2-1E2A3A?style=for-the-badge&logo=amazonec2&logoColor=FF9900" height="32"/>
 <img src="https://img.shields.io/badge/EKS-1E2A3A?style=for-the-badge&logo=amazoneks&logoColor=FF9900" height="32"/>
 <img src="https://img.shields.io/badge/VPC-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
@@ -59,7 +54,6 @@ DevOps Engineer focused on container orchestration, CI/CD automation, and produc
 <img src="https://img.shields.io/badge/CloudFront-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
 <img src="https://img.shields.io/badge/Secrets_Manager-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
 <img src="https://img.shields.io/badge/Auto_Scaling-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
-
 </div>
 
 ---
