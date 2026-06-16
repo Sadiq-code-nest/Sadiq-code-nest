@@ -36,10 +36,10 @@ DevOps Engineer focused on container orchestration, CI/CD automation, and produc
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Helm-1E2A3A?style=for-the-badge&logo=helm&logoColor=0F1689" height="32"/>
+<img src="https://img.shields.io/badge/ArgoCD-1E2A3A?style=for-the-badge&logo=argo&logoColor=EF7B4D" height="32"/>
+<img src="https://img.shields.io/badge/Loki-1E2A3A?style=for-the-badge&logo=grafana&logoColor=F5A800" height="32"/>
+<img src="https://img.shields.io/badge/Wazuh_SIEM-1E2A3A?style=for-the-badge&logo=elastic&logoColor=58A6FF" height="32"/>
 
 <br/><br/>
 
@@ -47,18 +47,18 @@ DevOps Engineer focused on container orchestration, CI/CD automation, and produc
 
 <br/>
 
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/EC2-1E2A3A?style=for-the-badge&logo=amazonec2&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/EKS-1E2A3A?style=for-the-badge&logo=amazoneks&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/VPC-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/ALB-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/IAM-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/S3-1E2A3A?style=for-the-badge&logo=amazons3&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/RDS-1E2A3A?style=for-the-badge&logo=amazonrds&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/CloudWatch-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/Route_53-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/CloudFront-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/Secrets_Manager-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/Auto_Scaling-1E2A3A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
 
 </div>
 
